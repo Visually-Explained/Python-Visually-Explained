@@ -1,4 +1,4 @@
-# Numeric Operations and Data Types Links
+# Numeric Operations and Data Types
 
 ### Notebook Links
 

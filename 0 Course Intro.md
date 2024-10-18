@@ -1,5 +1,5 @@
 
-# Getting Started with Colab Links
+# Getting Started with Colab
 
 ### Notebook Links
 
