@@ -11,7 +11,7 @@
 - [Error Handling.ipynb](https://colab.research.google.com/drive/1FzrFNyFDafTGqUq5hjjo410n_kLXDuhk?usp=sharing)
 
 #### User Input and Error Handling - Guided Examples
-- [Strings - Guided Examples (Blank).ipynb](https://colab.research.google.com/drive/1ts_x_rKXhSViHHXRrENDXkOmNontAvrG?usp=sharing)
+- [User Input and Error Handling - Guided Examples - Guided Examples (Blank).ipynb](https://colab.research.google.com/drive/1ts_x_rKXhSViHHXRrENDXkOmNontAvrG?usp=sharing)
 - [User Input and Error Handling - Guided Examples.ipynb](https://colab.research.google.com/drive/1MhhSibeTZiI_Bqze36ByP8kXpyOAAIfS?usp=sharing)
 
 #### User Input and Error Handling - Exercises
