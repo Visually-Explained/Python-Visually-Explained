@@ -19,4 +19,5 @@
 - [User Input and Error Handling - Exercise Solutions.ipynb](https://colab.research.google.com/drive/1aH91bu3y1Z6l0vksOv6QNrmqv1-0Vn_4?usp=sharing)
 
 ### Other Links
-
+- [The `finally` keyword](https://www.w3schools.com/python/ref_keyword_finally.asp)
+- [Python built-in exceptions](https://www.w3schools.com/python/python_ref_exceptions.asp)

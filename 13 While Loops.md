@@ -13,6 +13,3 @@
 #### While Loops - Exercises
 - [While Loops - Exercises.ipynb](https://colab.research.google.com/drive/1dg2ou0UuqPvYSAZMxgrEPEdodcmaZx28?usp=sharing)
 - [While Loops - Exercise Solutions.ipynb](https://colab.research.google.com/drive/126F0_KUDfbFAWfREfqrCsZINjok7rzkk?usp=sharing)
-
-### Other Links
-

@@ -18,5 +18,4 @@
 - [Collections - Exercises.ipynb](https://colab.research.google.com/drive/1HRld2KuECsq3q8qu0ILVJn6QJcgqPe4b?usp=sharing)
 - [Collections - Exercise Solutions.ipynb](https://colab.research.google.com/drive/1usQvWNO-_W-sicMa8qYjTd-xUF51ylWI?usp=sharing)
 
-### Other Links
 

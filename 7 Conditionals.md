@@ -12,6 +12,3 @@
 #### Conditionals - Exercises
 - [Conditionals - Exercises.ipynb](https://colab.research.google.com/drive/108UB84ddU7aD09aFwfr22ZnQMaXiKYe9?usp=drive_link)
 - [Conditionals - Exercise Solutions.ipynb](https://colab.research.google.com/drive/1J0bGsTS4ECmOiJYTk3-ZR645ze6sj2By?usp=drive_link)
-
-### Other Links
-
