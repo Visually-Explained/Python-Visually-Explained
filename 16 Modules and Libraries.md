@@ -21,6 +21,3 @@
 #### Pandas Exercises
 - [Pandas - Exercises.ipynb](https://colab.research.google.com/drive/1q-4_Flmblka0GzfoSe5G9PLGFcBP75fQ?usp=sharing)
 - [Pandas - Exercise Solutions.ipynb](https://colab.research.google.com/drive/1iX9PVzs6XHvdyCOfo6OvYxjLuYjU-T01?usp=sharing)
-
-### Other Links
-

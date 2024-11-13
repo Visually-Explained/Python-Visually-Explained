@@ -11,6 +11,3 @@
 #### Namespace and Scope - Exercises
 - [Namespace and Scope - Exercises.ipynb](https://colab.research.google.com/drive/1vQ0I0kKfLTyQP44nlC9zxozjLSDXXMih?usp=sharing)
 - [Namespace and Scope - Exercise Solutions.ipynb](https://colab.research.google.com/drive/1W0Jv7Km9gw75ztJcLPT8783ib2RTJP7w?usp=sharing)
-
-### Other Links
-
